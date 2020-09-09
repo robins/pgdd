@@ -221,6 +221,6 @@ views    |Data dictionary view:  Lists views and materialized views|
 
 ```sql
 SELECT *
-    FROM dd.fuctions;
+    FROM dd.functions;
 ```
 
